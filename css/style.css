@@ -75,11 +75,11 @@ body {
 
 .table tr th {
     padding: 10px 5px;
-    border: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
 }
 
 .table tr td {
-    border: 1px solid #dfdfdf;
+    border-bottom: 1px solid #dfdfdf;
     padding: 16px;
     margin: 10px;
 }
